@@ -16,4 +16,9 @@ public class LoginEcom {
 	public void setUserPassword(String userPassword) {
 		this.userPassword = userPassword;
 	}
+	
+	//abcd
+	//efgh
+	//ijkl
+	//mnop
 }
