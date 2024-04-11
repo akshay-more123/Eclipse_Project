@@ -42,6 +42,9 @@ public class Serielisation {
 				            .extract().response().asString();
 		 
 		  System.out.println(res);
+		  System.out.println(res);
+		  System.out.println(res);
+		  System.out.println(res);
 		  
 	 }
 }
